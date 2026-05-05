@@ -1,3 +1,4 @@
+//updation 
 package com.eventmanagement.security;
 
 import com.eventmanagement.model.User;
@@ -37,3 +38,4 @@ public class CustomUserDetailsService implements UserDetailsService {
         );
     }
 }
+//end
