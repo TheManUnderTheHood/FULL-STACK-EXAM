@@ -1,3 +1,4 @@
+// registration page
 import React, { useEffect, useState } from 'react';
 import api from '../api';
 
@@ -35,3 +36,4 @@ const MyRegistrations = () => {
 };
 
 export default MyRegistrations;
+//end
